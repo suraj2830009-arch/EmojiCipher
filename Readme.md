@@ -27,7 +27,7 @@ apt install git python
 git clone https://github.com/suraj2830009-arch/EmojiCipher.git
 ```
 ```
-cd EmojiCipher-Pro
+cd EmojiCipher
 ```
 ```
 python3 -m venv venv
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 ## ▶ Run
 
-python emoji_cipher.py
+python Emojicipher.py
 ```
 ## 📦 Installation Short
 ```
@@ -49,9 +49,9 @@ apt update
 
 apt install git python
 
-git clone https://github.com/azod814/EmojiCipher-Pro.git
+git clone https://github.com/suraj2830009-arch/EmojiCipher.git
 
-cd EmojiCipher-Pro
+cd EmojiCipher
 
 python3 -m venv venv
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## ▶ Run
 
-python emoji_cipher.py
+python Emojicipher.py
 ```
 ## 🔐 How It Works
 
