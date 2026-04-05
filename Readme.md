@@ -17,7 +17,7 @@ EmojiCipher Pro is a GUI-based encrypted emoji messaging tool built using Python
 - cryptography library
 
 ## 📦 Installation
-
+```
 git clone https://github.com/suraj2830009-arch/EmojiCipher.git
 
 cd EmojiCipher-Pro
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## ▶ Run
 
 python emoji_cipher.py
-
+```
 ## 🔐 How It Works
 
 1. Enter message
