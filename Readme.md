@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 ## ▶ Run
 
-python Emojicipher.py
+python3 Emojicipher.py
 ```
 ## 📦 Installation Short
 ```
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## ▶ Run
 
-python Emojicipher.py
+python3 Emojicipher.py
 ```
 ## 🔐 How It Works
 
