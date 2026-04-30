@@ -9,7 +9,7 @@ EmojiCipher Pro is a GUI-based encrypted emoji messaging tool built using Python
 - Password-based symmetric encryption
 - Unique emoji pattern generated for every message
 - Modern dark-themed GUI
-- Added +15 more emojis soon add all emojis
+- Added 20+ more emojis soon add all emojis
 - Added these things also ₹&/':;!?$€¥¢°π©®™%✓•|><
 
 ## 🛠 Requirements
