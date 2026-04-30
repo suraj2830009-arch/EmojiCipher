@@ -13,10 +13,11 @@ EMOJIS = [
 "❤️","💜","🖤","💛","💚","💙","🤍","🤎","💔","✨",
 "🥳","😇","🤠","👽","🧙","🦄","🐝","🐸","🐵","🐔",
 "🐧","🐳","🐬","🐞","🌸","🍀","🍉","🍓","🍔","🥑",
-"🙏","☠️","🥺","📍","🌚","🔥","🫂","🌹","😘","😍"
+"🙏","☠️","🥺","📍","🌚","🔥","🫂","🌹","😘","😍",
+"🥀","🔱","🕉️","🚩","🦚","🙌","🗿","☠️","🙂","😶‍🌫️"
 ]
 
-BASE_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,!?@#"
+BASE_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,!?₹&/':;!?$€¥¢°π©®™%✓•|><@#"
 
 def generate_seed(password, salt):
     return int(hashlib.sha256((password + salt).encode()).hexdigest(), 16)
